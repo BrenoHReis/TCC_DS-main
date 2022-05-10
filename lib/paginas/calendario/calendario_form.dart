@@ -65,7 +65,6 @@ class _CalendarioPageState extends State<CalendarioForm> {
               },
               child: Text("Pular para hoje"),
             ),
-            Text('Data selecionada é $_selectedDateAppBBar'),
             SizedBox(
               height: 20.0,
             ),
